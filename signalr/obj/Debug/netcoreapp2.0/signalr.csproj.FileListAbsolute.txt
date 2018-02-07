@@ -1,0 +1,10 @@
+C:\users\chester\documents\GitHub\Jubilant-Barnacle\signalr\bin\Debug\netcoreapp2.0\signalr.deps.json
+C:\users\chester\documents\GitHub\Jubilant-Barnacle\signalr\bin\Debug\netcoreapp2.0\signalr.runtimeconfig.json
+C:\users\chester\documents\GitHub\Jubilant-Barnacle\signalr\bin\Debug\netcoreapp2.0\signalr.runtimeconfig.dev.json
+C:\users\chester\documents\GitHub\Jubilant-Barnacle\signalr\bin\Debug\netcoreapp2.0\signalr.dll
+C:\users\chester\documents\GitHub\Jubilant-Barnacle\signalr\bin\Debug\netcoreapp2.0\signalr.pdb
+C:\users\chester\documents\GitHub\Jubilant-Barnacle\signalr\obj\Debug\netcoreapp2.0\signalr.csproj.CoreCompileInputs.cache
+C:\users\chester\documents\GitHub\Jubilant-Barnacle\signalr\obj\Debug\netcoreapp2.0\signalr.AssemblyInfoInputs.cache
+C:\users\chester\documents\GitHub\Jubilant-Barnacle\signalr\obj\Debug\netcoreapp2.0\signalr.AssemblyInfo.cs
+C:\users\chester\documents\GitHub\Jubilant-Barnacle\signalr\obj\Debug\netcoreapp2.0\signalr.dll
+C:\users\chester\documents\GitHub\Jubilant-Barnacle\signalr\obj\Debug\netcoreapp2.0\signalr.pdb
